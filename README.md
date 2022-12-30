@@ -53,6 +53,13 @@ Takeaway points:
 	
 
 <h3>Income</h3>
-
+The participants median household income is 22% lower than Portland's median household income. This is evidence that we are reaching our target audience of lower-income families
 ![Zenger Income vs. Portland Median Income]
 <img width="710" alt="Screenshot 2022-12-30 at 10 36 49 AM" src="https://user-images.githubusercontent.com/114360846/210102192-322eb8d5-fbb4-4dce-8b3d-ba4a369eea62.png">
+	
+<h3>Financials</h3>
+-Zenger offers sliding scale payment system for Summer Camp: 6 different payment options from $0 - $550
+Made chart totalling how many participants in each bucket
+![Total Participants per Price Point](https://github.com/lionmetals/zenger_summercamp_analysis/blob/50971e10f5de6817b9c12fffb2204e289f477161/Screenshot%202022-12-30%20at%2010.01.09%20AM.png)
+-The $50.00 "spot" stood out to me. There are 93, or 24% of total participants, who paid $50. This could either mean that we are hitting lower-income families, or that some of these participants are "bad actors". 
+
