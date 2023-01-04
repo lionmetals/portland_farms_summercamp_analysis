@@ -1,6 +1,6 @@
 # portland_farms_summercamp_analysis
 <h1>An analysis of Portland Farms Summer Camp financials and demographics</h1>
-[Link to Slideshow](https://docs.google.com/presentation/d/1HQ7b9GIke-Zx8A1dPojlCw_viDgvXRsz9cTqDeZj2OI/edit?usp=sharing)
+<a href="https://docs.google.com/presentation/d/1HQ7b9GIke-Zx8A1dPojlCw_viDgvXRsz9cTqDeZj2OI/edit?usp=sharing"> Link to Slideshow </a>
 
 <h2>Ask</h2>
 Question #1: How does Portland Summer Camp racial demographics compare to Portland?
